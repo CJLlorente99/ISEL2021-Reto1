@@ -1,0 +1,4 @@
+spin/pan*
+spin/_spin_nvr.tmp
+spin/model.pml.trail
+src/*.o
